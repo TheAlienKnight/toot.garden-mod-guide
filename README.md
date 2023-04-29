@@ -4,5 +4,10 @@ This is a moderation guide, and toolkit that is used by the toot.garden Mastodon
 
 ## Sections
 ### - The Moderation Interface
+####     - Copy-Paste/Default Action Text
+####     - Mod Note Examples/Defaults
 ### - Common Spam Accounts
-### \t- Spam Account List
+####     - Spam Account List
+####     - Current Spam Account Trends
+
+
