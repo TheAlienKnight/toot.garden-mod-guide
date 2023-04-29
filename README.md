@@ -9,6 +9,13 @@ This is a moderation guide, and toolkit that is used by the toot.garden Mastodon
 - Common Spam Accounts
   - Spam Account List
   - Current Spam Account Trends
-- Current List of Blocked/Limited Domains 
+- Current List of Blocked/Limited Domains
+- Moderation Action Breakdown
+  - Warn
+  - Freeze
+  - Force-sensitive
+  - Limit
+  - Suspend
+  - Memoriam
 
 
