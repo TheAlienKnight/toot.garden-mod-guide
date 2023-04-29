@@ -4,4 +4,5 @@ This is a moderation guide, and toolkit that is used by the toot.garden Mastodon
 
 ## Sections
 ### - The Moderation Interface
-### - WIP
+### - Common Spam Accounts
+### \t- Spam Account List
