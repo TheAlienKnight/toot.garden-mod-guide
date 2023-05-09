@@ -8,3 +8,9 @@ This is the first tab that will open when you go to the moderation menu. It's wh
 An example of what a report would look like, with a resolved report being an example:
 
 ![image](https://github.com/TheAlienKnight/toot.garden-mod-guide/assets/88284489/2edee867-c856-441e-9fc5-f64144df33d0)
+
+Once you click on the report, you are brought into a menu for that specific report.
+
+![image](https://github.com/TheAlienKnight/toot.garden-mod-guide/assets/88284489/9feff8b1-8a96-4004-ab09-be0f11d8dbae)
+
+The image above is only half the report, but it is mostly self explanitory given the helpful breakdown provided by Mastodon itself. A helpful thing to note, is that if the account is remote, it displays the "Joined" date as when toot.garden first became aware of it's existance. Last active will also be blank if the account is not local.
