@@ -14,3 +14,7 @@ Once you click on the report, you are brought into a menu for that specific repo
 ![image](https://github.com/TheAlienKnight/toot.garden-mod-guide/assets/88284489/9feff8b1-8a96-4004-ab09-be0f11d8dbae)
 
 The image above is only half the report, but it is mostly self explanitory given the helpful breakdown provided by Mastodon itself. A helpful thing to note, is that if the account is remote, it displays the "Joined" date as when toot.garden first became aware of it's existance. Last active will also be blank if the account is not local.
+
+![image](https://github.com/TheAlienKnight/toot.garden-mod-guide/assets/88284489/ad153f4e-63ea-474f-97cf-a329724d08fc)
+
+The image above is the last half of the report. It allows moderators to add more posts the report for proper paper trails, and it allows notes to be written by moderators that explains the actions taken, or actions not taken. The audit log maintains a track record of what "power" actions were taken by *any* of the staff members. It should be noted, that here since I am the admin of the instance, I can see the "delete" button on the notes section. Normally, other moderators cannot delete other moderators notes- and for good reason.
