@@ -19,6 +19,7 @@ The image above is only half the report, but it is mostly self explanitory given
 
 The image above is the last half of the report. It allows moderators to add more posts the report for proper paper trails, and it allows notes to be written by moderators that explains the actions taken, or actions not taken. The audit log maintains a track record of what "power" actions were taken by *any* of the staff members. It should be noted, that here since I am the admin of the instance, I can see the "delete" button on the notes section. Normally, other moderators cannot delete other moderators notes- and for good reason.
 
+_____
 
 ### Invites
 This functionality in the moderation menu really just allows for moderators to create invite links (if not publicly enabled), and to deactivate anyones invites should that need to happen for whatever reason.
