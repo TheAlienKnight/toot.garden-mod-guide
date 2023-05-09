@@ -18,3 +18,14 @@ The image above is only half the report, but it is mostly self explanitory given
 ![image](https://github.com/TheAlienKnight/toot.garden-mod-guide/assets/88284489/ad153f4e-63ea-474f-97cf-a329724d08fc)
 
 The image above is the last half of the report. It allows moderators to add more posts the report for proper paper trails, and it allows notes to be written by moderators that explains the actions taken, or actions not taken. The audit log maintains a track record of what "power" actions were taken by *any* of the staff members. It should be noted, that here since I am the admin of the instance, I can see the "delete" button on the notes section. Normally, other moderators cannot delete other moderators notes- and for good reason.
+
+
+### Invites
+This functionality in the moderation menu really just allows for moderators to create invite links (if not publicly enabled), and to deactivate anyones invites should that need to happen for whatever reason.
+![image](https://github.com/TheAlienKnight/toot.garden-mod-guide/assets/88284489/b7e45b68-4bcc-49dd-b6ff-bdd53c5dbdf6)
+
+
+### Follow Recommendations
+This is likely something that many people are curious about, and or didn't even know existed. This section allows for manual suppression of follow recommendations on a server wide basis. Toot.garden *does not* currently have any suppressed recommendations. This action should only take place if it is an account that is not necessarily breaking rules, but is posting in some manner that is deemed detrimental to the experience of other people. Moderators on toot.garden should contact AJ first before performing this action, or to suggestion this action.
+
+![image](https://github.com/TheAlienKnight/toot.garden-mod-guide/assets/88284489/4c17b77b-a51a-4473-bdb6-c0495e9ccd9e)
