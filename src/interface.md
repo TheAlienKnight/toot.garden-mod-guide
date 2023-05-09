@@ -9,6 +9,10 @@ An example of what a report would look like, with a resolved report being an exa
 
 ![image](https://github.com/TheAlienKnight/toot.garden-mod-guide/assets/88284489/2edee867-c856-441e-9fc5-f64144df33d0)
 
+An example of a remote report of a local user, with no actions taken:
+![image](https://github.com/TheAlienKnight/toot.garden-mod-guide/assets/88284489/9967f56e-1317-4c3e-ae36-2ca225e8b1e5)
+
+
 Once you click on the report, you are brought into a menu for that specific report.
 
 ![image](https://github.com/TheAlienKnight/toot.garden-mod-guide/assets/88284489/9feff8b1-8a96-4004-ab09-be0f11d8dbae)
